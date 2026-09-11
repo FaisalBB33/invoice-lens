@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  background: #f5f1e8;
+}
+
+body {
+  margin: 0;
+  color: #17211b;
+  font-family:
+    "Segoe UI",
+    Arial,
+    sans-serif;
+  background:
+    radial-gradient(circle at 15% 5%, rgba(220, 231, 215, 0.9), transparent 30rem),
+    radial-gradient(circle at 90% 95%, rgba(233, 107, 75, 0.11), transparent 32rem),
+    #f5f1e8;
+}
+
+.font-editorial {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+::selection {
+  color: #ffffff;
+  background: #246247;
+}
