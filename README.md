@@ -60,7 +60,7 @@ For supported questions, the backend generates safe, read-only database queries,
 
 ### Upload Page
 
-![Invoice Upload Page](images/image-1.png)
+![Invoice Upload Page](Images/image-1.png)
 
 
 
@@ -68,11 +68,11 @@ For supported questions, the backend generates safe, read-only database queries,
 
 ### Saved Invoices Page
 
-![Saved Invoices Page](images/image-3.png)
+![Saved Invoices Page](Images/image-3.png)
 
 
 
 ### Chat with invoices
-![Invoice Chat Page](images/image-4.png)
+![Invoice Chat Page](Images/image-4.png)
 
 
